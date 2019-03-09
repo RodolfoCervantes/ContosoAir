@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/pruebasRodo/Test/_apis/build/status/RodolfoCervantes.ContosoAir?branchName=master)](https://dev.azure.com/pruebasRodo/Test/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
